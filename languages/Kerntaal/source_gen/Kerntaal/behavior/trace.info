@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <root>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="9,0,30,0" name="Kerntaal.behavior.BehaviorAspectDescriptor" />
+    </file>
+    <file name="Context_BehaviorDescriptor.java">
+      <unit at="10,0,21,0" name="Kerntaal.behavior.Context_BehaviorDescriptor" />
+    </file>
+    <file name="Feittype_BehaviorDescriptor.java">
+      <unit at="11,0,22,0" name="Kerntaal.behavior.Feittype_BehaviorDescriptor" />
+    </file>
+    <file name="Gebeurtenistype_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="Kerntaal.behavior.Gebeurtenistype_BehaviorDescriptor" />
+    </file>
+    <file name="Objecttype_BehaviorDescriptor.java">
+      <unit at="10,0,21,0" name="Kerntaal.behavior.Objecttype_BehaviorDescriptor" />
+    </file>
+    <file name="Omstandigheidstype_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="Kerntaal.behavior.Omstandigheidstype_BehaviorDescriptor" />
+    </file>
+    <file name="Rol_BehaviorDescriptor.java">
+      <unit at="10,0,21,0" name="Kerntaal.behavior.Rol_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+
